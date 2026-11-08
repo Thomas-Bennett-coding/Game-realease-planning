@@ -60,7 +60,6 @@
 - April 20: Prepare release documentation.
 - April 23: Final multiplayer stress test.
 - April 28: Prepare the final release build.
-- April 30: GAME REALEASE DAY.
 
 ## Weekly Development Schedule
 
